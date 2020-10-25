@@ -10,6 +10,7 @@ un blog increible para el curso de git y githnub de Platzi
 * Trucos muy locos del profesor
 * Las personalidades multiples de Freddy
 * Creado por el increible Platzi Team
+* incluye ejemplos en linux indows y mac
 
 Y como recordtorio **Este readme.md es un chiste**. Diseñado para el ejemplo. 
 
